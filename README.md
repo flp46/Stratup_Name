@@ -1,6 +1,6 @@
 # startup_namer
 
-A new Flutter project.
+Proyecto para generar nombres aleatorios para startups en Flutter
 
 ## Getting Started
 
